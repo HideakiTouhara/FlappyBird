@@ -1,2 +1,2 @@
 # FlappyBird
-FlappyBirdの目コピ
+GREEインターンの事前課題
